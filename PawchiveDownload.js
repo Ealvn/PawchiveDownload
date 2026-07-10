@@ -14,6 +14,9 @@
 // @require         https://cdnjs.cloudflare.com/ajax/libs/jszip/3.9.1/jszip.min.js
 // @require         https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.0/FileSaver.min.js
 // @require         https://code.jquery.com/jquery-3.7.1.slim.min.js
+// @namespace https://greasyfork.org/users/1377032
+// @downloadURL https://update.greasyfork.org/scripts/586499/pawchive%E4%B8%8B%E8%BD%BD%E5%BD%93%E5%89%8D%E9%A1%B5%E9%9D%A2.user.js
+// @updateURL https://update.greasyfork.org/scripts/586499/pawchive%E4%B8%8B%E8%BD%BD%E5%BD%93%E5%89%8D%E9%A1%B5%E9%9D%A2.meta.js
 // ==/UserScript==
 
 
